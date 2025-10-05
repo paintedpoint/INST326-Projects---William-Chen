@@ -21,3 +21,9 @@ Week 3
 I needed some help for ideas for my speech introduction for INAG110. I didn't end up using any of them because I came up with something I think is really creative and is a lot more impactful
 https://chatgpt.com/share/68d9fa53-30a0-800b-a4a2-384b78ad0c33
 
+Week 4
+I really needed some help with one of the questions. My code was returning an None and I was really confused. As it turns out, I was using the wrong thing to sort the dictionary pairs and even though I casted, it still didn't work. I ended up coming up with a solution to use the sorted (curtusy of ChatGPT) and a quick lambda (also with a refresher from ChatGPT).
+https://chatgpt.com/share/68e2cdd3-66d4-800f-9a07-41142d510ae4
+
+Sometime during the week, I also used google sheets to compare some cells using a rule. I have no memory of the details but it looks like I got ChatGPT to write out most of it.
+https://chatgpt.com/share/68e2ce0d-7acc-800f-80fd-ec9370d07f6b
